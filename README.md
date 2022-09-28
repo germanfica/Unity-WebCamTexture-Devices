@@ -1,4 +1,4 @@
-# WebCamTexture Devices
+# WebCamTexture Devices Performance Issue Research
 
 A separate unity project was created to investigate the WebCamTexture Devices performance issue. The objetive is to be able to display the connected devices every certain period of time. It is necessary to know if any device was disconnected.
 
