@@ -4,7 +4,7 @@ A separate unity project was created to investigate the WebCamTexture Devices pe
 
 ## Performance issue
 
-A performance issue has been found in WebCamTexture.devices.
+A performance issue has been found in WebCamTexture.devices. To test the issue, it must be done using a build. With this build you will be able to analyse the performance issue from the Unity Profiler.
 
 ![WebCamTexture-devices-performance-issue](/Images/WebCamTexture.devices-performance-issue.png)
 
